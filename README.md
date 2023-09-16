@@ -2,7 +2,7 @@
 ---
 
 ## Tableau Dashboard Link
-- [Click Here to View the Tableau Dashboard](https://public.tableau.com/views/employee_attrition_dashboard/Author?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Click Here to View the Tableau Dashboard](https://public.tableau.com/views/employee_attrition_dashboard/Home?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## 1. Background
 
