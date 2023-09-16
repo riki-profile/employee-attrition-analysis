@@ -19,7 +19,7 @@ The purpose of this analysis is to identify the main factors that contribute to 
 - What factors are dependent on the turnover decision?
 - And more.
 
-## Data Loading
+## 4. Data Loading
 
 - Data source: 
     - HR Analytics Case Study from Kaggle  [(*Click Here!*)](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study)
@@ -58,9 +58,9 @@ The purpose of this analysis is to identify the main factors that contribute to 
 | YearsSinceLastPromotion | Number of years since last promotion |   |
 | YearsWithCurrManager | Number of years under current manager  |   |
 
-### Conclusion and Recommendation
+## 5. Conclusion and Recommendation
 
-#### Conclusion
+### Conclusion
 
 In this exploratory data analysis, it is observed that approximately 16.1% of employees have resigned from the company. The analysis has enabled the identification of certain employee characteristics that are associated with attrition. Most of the employees who left are males aged between 25 to 35 years, and they are predominantly single. The Research and Development department is the most affected by attrition, and a majority of the departing employees possess a bachelor's degree, particularly with a background in Life Science.
 
@@ -70,7 +70,7 @@ The histogram depicting the distribution of total working years for departing em
 
 An inferential statistical approach was also employed to determine the factors associated with attrition. The analysis revealed that 17 factors exhibit a statistically significant relationship with attrition, while 9 factors appeared to be independent. However, the current analysis does not offer insights into the direction of these correlations. Subsequent analyses will be conducted to explore the direction and strength of the relationships between the identified factors and attrition, providing a more comprehensive understanding of their impact.
 
-#### Recommendation
+### Recommendation
 
 Here are some recommended follow-up actions based on the insights obtained:
 
